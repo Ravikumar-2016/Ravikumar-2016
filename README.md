@@ -1,4 +1,4 @@
-<!-- 🌟 MODERN PORTFOLIO README BY RAVI KUMAR GUNTI 🌟 -->
+<!-- 🌟PORTFOLIO README BY RAVIKUMAR GUNTI 🌟 -->
 
 <div align="center">
 
@@ -67,17 +67,18 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 ````
 
 ---
-
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 <div align="center">
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravikumar-2016\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
-![Streak Stats](https://streak-stats.demolab.com/?user=Ravikumar-2016\&theme=tokyonight\&hide_border=true\&background=0D1117)
+<!-- GitHub Readme Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ravikumar-2016&show_icons=true&theme=tokyonight&hide_border=true" alt="Ravi's GitHub Stats" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- Streak Stats (Demolab) -->
+<img src="https://streak-stats.demolab.com?user=Ravikumar-2016&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
-
 ---
 
 ## 🎯 **Current Focus**
