@@ -1,93 +1,128 @@
-
-<div align="center" style="background: linear-gradient(135deg, #1f6feb 0%, #0d47a1 100%); padding: 40px 20px; border-radius: 12px; margin-bottom: 20px;">
-
-# RAVI KUMAR GUNTI
-<h2 style="font-size: 28px; margin: 15px 0; color: #fff; font-weight: 600; letter-spacing: 1px;">
-  <span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;">{ </span>Computer Science Student<span style="font-family: 'Monaco', 'Courier New', monospace; color: #00d9ff;"> }</span>
-</h2>
-
-<p style="font-size: 18px; color: #ffffff; font-weight: 500; margin: 20px 0; letter-spacing: 0.5px;">
-  🚀 Learner • 💻 Developer • 🌱 Innovator
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Ravikumar-2016&label=Profile%20views&color=00d9ff&style=flat" alt="Profile Views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I am a passionate **Computer Science and Engineering student** at **IIITDM Jabalpur (2023–2027)**.  
-I enjoy **solving real-world problems through code** and building **scalable, impactful applications**.
-
-### 🧠 Technical Interests:
-- Full-Stack Web Development (React, Node.js, Express)
-- Databases: MySQL, MongoDB
-- Programming: Python, Java, C, C++
-- Cloud Computing and AI-driven systems
-
-> 💡 I believe in learning by doing — through hackathons, collaborations, and continuous exploration.
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Period | Status |
-|---|---|---|---|
-| B.Tech in Computer Science and Engineering | IIITDM Jabalpur | 2023–2027 | 🎓 Current |
-| Intermediate Education | Narayana Junior College | 2021–2023 | ✅ Completed |
-| Secondary Education | MJPTBCWREIS | 2017–2021 | ✅ Completed |
-
----
-
-## 💼 Projects
-
-| S.No | Project | Tech Stack | Description | Status |
-|---|---|---|---|---|
-| 1 | **Crop Management System** | `React` `Node.js` `MySQL` `Django` | Web app to help farmers manage crops, fertilizers, and markets | 🌾 Active |
-| 2 | **SkyNow - Weather Website** | `React` `OpenWeather API` | Displays real-time weather and alerts | ☁️ Live |
-| 3 | **Banking Enterprise Web App** | `PHP` `MySQL` | Dynamic banking dashboard for managing accounts, loans, and deposits | 🏦 Active |
-| 4 | **Travel Booking System** | `Java` `OOP Concepts` | Java-based system for booking flights, hotels, and rentals | ✈️ Learning |
-| 5 | **Student Data Manager** | `Python` `Pandas` | Data management and analysis app for student records | 📊 Educational |
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** React, HTML, CSS, JavaScript, Tailwind  
-**Backend:** Node.js, Django, PHP  
-**Database:** MySQL, MongoDB  
-**Programming:** Python, Java, C, C++  
-**Tools:** Git, GitHub, VS Code, AWS Basics  
-
----
-
-## 📬 Contact Me
-
-📧 **Email:** [ravikumargunti837@gmail.com](mailto:ravikumargunti837@gmail.com)  
-🌐 **Portfolio:** _Coming soon_  
-💼 [LinkedIn](https://www.linkedin.com/in/ravikumar-gunti-8b360a2a8/)  
-🐙 [GitHub](https://github.com/Ravikumar-2016)  
-📸 [Instagram](https://www.instagram.com/ravikumar_gunti__/)
-
----
-
-## 📊 GitHub Stats
+<!-- 🌟 MODERN PORTFOLIO README BY RAVI KUMAR GUNTI 🌟 -->
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravikumar-2016&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=tokyonight)
+<img src="https://github.com/Ravikumar-2016.png" width="160" style="border-radius:50%; border:4px solid #00E0FF;" alt="Ravi Kumar Gunti"/>
+
+# 🧑‍💻 **Ravi Kumar Gunti**  
+### *Crafting Scalable Software for a Smarter World 🌍*
+
+📍 IIITDM Jabalpur | Computer Science & Engineering (2023–2027)  
+💡 Full Stack Developer | Problem Solver | Innovator  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar-gunti-8b360a2a8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravikumar-2016)
+[![Email](https://img.shields.io/badge/Email-ravikumargunti837@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumargunti837@gmail.com)
 
 </div>
 
 ---
 
-## ✨ Quote
+## **About Me**
 
-> "Great things never came from comfort zones — let's build, learn, and innovate together."
+> *“Building technology that touches lives.”*
+
+Hey there! I’m **Ravi Kumar Gunti**, a passionate **Full Stack Developer** and **CSE undergraduate** from **IIITDM Jabalpur**.  
+I love turning complex challenges into elegant, real-world solutions — from **AI-driven agriculture**  to **disaster management & computer vision systems** .
+
+🎯 **What Drives Me:**  
+Creating tech that empowers people — clean, impactful, and human-centered.
 
 ---
 
-⭐ **Feel free to explore my repositories and collaborate!**
+## ⚡ **Core Interests**
+
+- 🌐 Scalable Web & Cloud Applications  
+- 🧠 Deep Learning & Computer Vision  
+- 🔗 Real-time Systems & API Integrations  
+- 🎨 Modern UI/UX & Frontend Engineering  
+
+---
+
+## 🚀 **Featured Projects**
+
+> *Each project represents a fusion of innovation, engineering, and purpose.*
+
+| 🚩 Project | 🛠 Tech Stack | ✨ Highlights |
+|-------------|----------------|---------------|
+| **🌾 FarmEase: Agriculture Service Platform** | `React` `TypeScript` `Node.js` `Express` `MongoDB` `TailwindCSS` | Multi-role ecosystem for farmers, laborers, and agri-employees. Includes **Weather APIs**, **Geo-search**, and **AgroBridge** hiring. |
+| **🆘 SAVIOUR 2.0: Disaster Management System** | `React` `Node.js` `Firebase` `MongoDB` | Real-time **rescue coordination system** with WebSocket alerts & live tracking. Built secure **Admin Command Center**. |
+| **☁️ SkyNow: Weather Website** | `HTML5` `CSS3` `JavaScript` `OpenWeather API` | Modern, minimal **real-time weather app** with UV index, sunrise/sunset, and smart visuals. |
+| **🌱 Soil Sense: Crop Recommendation System** | `React` `TypeScript` `Node.js` | Suggests crops & fertilizers using **soil parameters (NPK, pH, humidity)** and scientific datasets. |
+| **🚗 Driver Drowsiness Detection (CV)** | `Python` `OpenCV` `Mediapipe` | Detects driver fatigue using eye tracking. Plays **alarm sound** on drowsiness. Modular & lightweight. |
+| **🧠 Driver Drowsiness Detection (DL Model)** | `TensorFlow` `OpenCV` | Deep learning model trained on real-world datasets for **accurate drowsy state detection**. |
+
+---
+
+## 🧰 **Tech Stack Toolbox**
+
+```text
+💻 Languages:   Python | Java | C++ | JavaScript | TypeScript
+🎨 Frontend:    React | TailwindCSS | HTML5 | CSS3 | Bootstrap
+⚙️ Backend:     Node.js | Express | Django | Firebase
+🗄 Databases:   MongoDB | MySQL
+☁️ Cloud / APIs: AWS (Basics) | REST APIs | OpenWeatherMap
+🧠 AI / ML:     TensorFlow | OpenCV | Mediapipe
+🧩 Tools:       Git | GitHub | VS Code | Postman | Figma
+````
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravikumar-2016\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)
+![Streak Stats](https://streak-stats.demolab.com/?user=Ravikumar-2016\&theme=tokyonight\&hide_border=true\&background=0D1117)
+
+</div>
+
+---
+
+## 🎯 **Current Focus**
+
+* 🌾 Enhancing **FarmEase** with real-time agri intelligence
+* 🧠 Upgrading **Driver Drowsiness Detection** with landmark-based deep learning
+* ☁️ Exploring **cloud-hosted AI solutions**
+* 💬 Writing clean, maintainable code & contributing to open source
+
+---
+
+## 🎓 **Education Timeline**
+
+| 🗓️ Year    | 🏫 Institution          | 🎯 Qualification                        |
+| ----------- | ----------------------- | --------------------------------------- |
+| 2023 – 2027 | IIITDM Jabalpur         | B.Tech – Computer Science & Engineering |
+| 2021 – 2023 | Narayana Junior College | Intermediate (MPC)                      |
+| 2017 – 2021 | MJPTBCWREIS             | Secondary Education                     |
+
+---
+
+## 💬 **Quote That Inspires Me**
+
+> *“Code is not just logic — it’s empathy written in syntax.”* 💙
+
+---
+
+## 🌐 **Let’s Connect**
+
+<div align="center">
+
+📧 [**ravikumargunti837@gmail.com**](mailto:ravikumargunti837@gmail.com)
+💼 [**LinkedIn**](https://www.linkedin.com/in/ravikumar-gunti-8b360a2a8/)
+🐙 [**GitHub**](https://github.com/Ravikumar-2016)
+🌍 *Portfolio — Coming Soon!*
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ *If you like my work, drop a star — it keeps me building with passion!*
+✨ *Let’s innovate, collaborate, and grow together.* 🚀
+
+</div>
+
+---
