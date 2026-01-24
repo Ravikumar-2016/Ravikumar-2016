@@ -104,16 +104,13 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 
 📧 [**ravikumargunti837@gmail.com**](mailto:ravikumargunti837@gmail.com)
 💼 [**LinkedIn**](https://www.linkedin.com/in/ravikumar-gunti-8b360a2a8/)
-🐙 [**GitHub**](https://github.com/Ravikumar-2016)
-🌍 *Portfolio — Coming Soon!*
 
 </div>
 
 ---
 
 <div align="center">
-
-⭐ *If you like my work, drop a star — it keeps me building with passion!*
+  
 ✨ *Let’s innovate, collaborate, and grow together.* 🚀
 
 </div>
