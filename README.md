@@ -11,7 +11,6 @@
 💡 Full Stack Developer | Problem Solver | Innovator  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar-gunti-8b360a2a8/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravikumar-2016)
 [![Email](https://img.shields.io/badge/Email-ravikumargunti837@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumargunti837@gmail.com)
 
 </div>
@@ -71,7 +70,6 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Ravikumar-2016&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-  <img width="400" src="https://streak-stats.demolab.com?user=Ravikumar-2016&theme=tokyonight&hide_border=true&v=1" />
 </div>
 
 
