@@ -76,7 +76,7 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 <!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 <!-- Streak Stats (Demolab) -->
-<img src="https://streak-stats.demolab.com?user=Ravikumar-2016&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=Ravikumar-2016&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
