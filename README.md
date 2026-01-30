@@ -19,9 +19,9 @@
 
 ## **About Me**
 
-> *“Building technology that touches lives.”*
+> *"Building technology that touches lives."*
 
-Hey there! I’m **Ravi Kumar Gunti**, a passionate **Full Stack Developer** and **CSE undergraduate** from **IIITDM Jabalpur**.  
+Hey there! I'm **Ravi Kumar Gunti**, a passionate **Full Stack Developer** and **CSE undergraduate** from **IIITDM Jabalpur**.  
 I love turning complex challenges into elegant, real-world solutions — from **AI-driven agriculture**  to **disaster management & computer vision systems** .
 
 🎯 **What Drives Me:**  
@@ -44,6 +44,7 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 
 | 🚩 Project | 🛠 Tech Stack | ✨ Highlights |
 |-------------|----------------|---------------|
+| **🎯 MeetTask AI: Meeting Task Management** | `React` `TypeScript` `Node.js` `Firebase` `Vercel` `TailwindCSS` | AI-powered meeting transcription with **AssemblyAI speaker diarization**, automatic task extraction, role-based access (Manager/Employee), **Vercel Blob file uploads**, and real-time Firestore sync. |
 | **🌾 FarmEase: Agriculture Service Platform** | `React` `TypeScript` `Node.js` `Express` `MongoDB` `TailwindCSS` | Multi-role ecosystem for farmers, laborers, and agri-employees. Includes **Weather APIs**, **Geo-search**, and **AgroBridge** hiring. |
 | **🆘 SAVIOUR 2.0: Disaster Management System** | `React` `Node.js` `Firebase` `MongoDB` | Real-time **rescue coordination system** with WebSocket alerts & live tracking. Built secure **Admin Command Center**. |
 | **☁️ SkyNow: Weather Website** | `HTML5` `CSS3` `JavaScript` `OpenWeather API` | Modern, minimal **real-time weather app** with UV index, sunrise/sunset, and smart visuals. |
@@ -59,11 +60,13 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 💻 Languages:   Python | Java | C++ | JavaScript | TypeScript
 🎨 Frontend:    React | TailwindCSS | HTML5 | CSS3 | Bootstrap
 ⚙️ Backend:     Node.js | Express | Django | Firebase
-🗄 Databases:   MongoDB | MySQL
-☁️ Cloud / APIs: AWS (Basics) | REST APIs | OpenWeatherMap
+🗄 Databases:   MongoDB | MySQL | Firestore
+☁️ Cloud / APIs: Vercel | AWS (Basics) | REST APIs | OpenWeatherMap | AssemblyAI
 🧠 AI / ML:     TensorFlow | OpenCV | Mediapipe
 🧩 Tools:       Git | GitHub | VS Code | Postman | Figma
-````
+```
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -72,9 +75,11 @@ Creating tech that empowers people — clean, impactful, and human-centered.
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=tokyonight&hide_border=true&v=1" />
 </div>
 
+---
 
 ## 🎯 **Current Focus**
 
+* 🎯 Building **MeetTask AI** — AI-powered meeting-to-task automation
 * 🌾 Enhancing **FarmEase** with real-time agri intelligence
 * 🧠 Upgrading **Driver Drowsiness Detection** with landmark-based deep learning
 * ☁️ Exploring **cloud-hosted AI solutions**
@@ -94,11 +99,11 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 
 ## 💬 **Quote That Inspires Me**
 
-> *“Code is not just logic — it’s empathy written in syntax.”* 💙
+> *"Code is not just logic — it's empathy written in syntax."* 💙
 
 ---
 
-## 🌐 **Let’s Connect**
+## 🌐 **Let's Connect**
 
 <div align="center">
 
@@ -111,7 +116,7 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 
 <div align="center">
   
-✨ *Let’s innovate, collaborate, and grow together.* 🚀
+✨ *Let's innovate, collaborate, and grow together.* 🚀
 
 </div>
 
