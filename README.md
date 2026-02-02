@@ -46,7 +46,7 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 |-------------|----------------|---------------|
 | **🎯 MeetTask AI: Meeting Task Management** | `React` `TypeScript` `Node.js` `Firebase` `Vercel` `TailwindCSS` | AI-powered meeting transcription with **AssemblyAI speaker diarization**, automatic task extraction, role-based access (Manager/Employee), **Vercel Blob file uploads**, and real-time Firestore sync. |
 | **🌾 FarmEase: Agriculture Service Platform** | `React` `TypeScript` `Node.js` `Express` `MongoDB` `TailwindCSS` | Multi-role ecosystem for farmers, laborers, and agri-employees. Includes **Weather APIs**, **Geo-search**, and **AgroBridge** hiring. |
-| **🆘 SAVIOUR 2.0: Disaster Management System** | `React` `Node.js` `Firebase` `MongoDB` | Real-time **rescue coordination system** with WebSocket alerts & live tracking. Built secure **Admin Command Center**. |
+| **🆘 SAVIOUR: Disaster Management System** | `React` `Node.js` `Firebase` `MongoDB` | Real-time **rescue coordination system** with WebSocket alerts & live tracking. Built secure **Admin Command Center**. |
 | **☁️ SkyNow: Weather Website** | `HTML5` `CSS3` `JavaScript` `OpenWeather API` | Modern, minimal **real-time weather app** with UV index, sunrise/sunset, and smart visuals. |
 | **🌱 Soil Sense: Crop Recommendation System** | `React` `TypeScript` `Node.js` | Suggests crops & fertilizers using **soil parameters (NPK, pH, humidity)** and scientific datasets. |
 | **🚗 Driver Drowsiness Detection (CV)** | `Python` `OpenCV` `Mediapipe` | Detects driver fatigue using eye tracking. Plays **alarm sound** on drowsiness. Modular & lightweight. |
