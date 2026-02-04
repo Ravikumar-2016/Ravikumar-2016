@@ -133,7 +133,7 @@ Built with real-world ML models for data-driven farming decisions, featuring a r
 
 ---
 
-### 🚗 **[Driver Drowsiness Detection (Computer Vision)]
+### 🚗 Driver Drowsiness Detection (Computer Vision)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Traditional-Driver-Drowsiness-Detection-System)
 
 **Tech Stack:** `Python` `OpenCV` `Mediapipe`
@@ -142,7 +142,7 @@ Real-time driver fatigue detection using eye tracking with alarm alerts. Modular
 
 ---
 
-### 🧠 **[Driver Drowsiness Detection (Deep Learning)]
+### 🧠 Driver Drowsiness Detection (Deep Learning)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Trained-Model-DDD-System)
 
 **Tech Stack:** `TensorFlow` `Keras` `OpenCV` `NumPy`
