@@ -111,7 +111,7 @@ Creating technology that empowers communities, increases efficiency, and saves l
 
 ---
 
-### 🌤️ **[SkyNow - Weather Website](https://github.com/Ravikumar-2016/SkyNow)**
+### 🌤️ **[SkyNow - Weather Website](https://sky-now-three.vercel.app/)**
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/SkyNow)
 
 **Tech Stack:** `HTML5` `CSS3` `JavaScript` `OpenWeather API`
@@ -120,8 +120,21 @@ Modern, minimal real-time weather app with UV index, sunrise/sunset times, and s
 
 ---
 
-### 🚗 **[Driver Drowsiness Detection (Computer Vision)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-CV)**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-CV)
+### 🌱 **[SoilSense – Smart Agriculture Platform](https://soil-sense-phi.vercel.app/)**
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/SoilSense)
+
+**Tech Stack:** `Next.js` `TypeScript` `React` `Machine Learning` `Render` `TailwindCSS`
+
+An AI-driven agriculture assistant that analyzes soil and environmental parameters to deliver personalized:
+- 🌾 Crop recommendations  
+- 🌿 Fertilizer suggestions  
+
+Built with real-world ML models for data-driven farming decisions, featuring a responsive UI and real-time predictions.
+
+---
+
+### 🚗 **[Driver Drowsiness Detection (Computer Vision)]
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Traditional-Driver-Drowsiness-Detection-System)
 
 **Tech Stack:** `Python` `OpenCV` `Mediapipe`
 
@@ -129,8 +142,8 @@ Real-time driver fatigue detection using eye tracking with alarm alerts. Modular
 
 ---
 
-### 🧠 **[Driver Drowsiness Detection (Deep Learning)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-DL)**
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-DL)
+### 🧠 **[Driver Drowsiness Detection (Deep Learning)]
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Trained-Model-DDD-System)
 
 **Tech Stack:** `TensorFlow` `Keras` `OpenCV` `NumPy`
 
@@ -162,18 +175,17 @@ Deep learning CNN model trained on real-world datasets for accurate drowsy state
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ravikumar-2016&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravikumar-2016&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravikumar-2016&theme=radical&hide_border=true)
 
 </div>
-
 
 ---
 
