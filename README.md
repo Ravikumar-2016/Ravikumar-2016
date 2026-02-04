@@ -5,13 +5,15 @@
 <img src="https://github.com/Ravikumar-2016.png" width="160" style="border-radius:50%; border:4px solid #00E0FF;" alt="Ravi Kumar Gunti"/>
 
 # 🧑‍💻 **Ravi Kumar Gunti**  
-### *Crafting Scalable Software for a Smarter World 🌍*
+### *Full Stack Developer | AI/ML Engineer 🚀*
 
-📍 IIITDM Jabalpur | Computer Science & Engineering (2023–2027)  
-💡 Full Stack Developer | Problem Solver | Innovator  
+📍 IIITDM Jabalpur | CSE (2023–2027) | CGPA: 8.3/10.0  
+💡 JEE Mains: 98.2 Percentile | 3 Production Apps | 1,600+ Users  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumar-gunti-8b360a2a8/)
-[![Email](https://img.shields.io/badge/Email-ravikumargunti837@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumargunti837@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sigma-roan-70.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunti-ravikumar-8b360a2a)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravikumar-2016)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumargunti837@gmail.com)
 
 </div>
 
@@ -19,95 +21,242 @@
 
 ## **About Me**
 
-> *"Building technology that touches lives."*
+> *"Building technology that solves real-world problems and creates meaningful impact."*
 
-Hey there! I'm **Ravi Kumar Gunti**, a passionate **Full Stack Developer** and **CSE undergraduate** from **IIITDM Jabalpur**.  
-I love turning complex challenges into elegant, real-world solutions — from **AI-driven agriculture**  to **disaster management & computer vision systems** .
+Hey there! I'm **Ravi Kumar Gunti**, a passionate **Full Stack Developer** and **AI/ML Engineer** pursuing **B.Tech in Computer Science** at **IIITDM Jabalpur** with **8.3 CGPA**.  
+
+I specialize in building **scalable, production-ready applications** that address real-world challenges — from **AI-powered disaster management** and **agricultural intelligence platforms** to **meeting automation systems**.
 
 🎯 **What Drives Me:**  
-Creating tech that empowers people — clean, impactful, and human-centered.
+Creating technology that empowers communities, increases efficiency, and saves lives through intelligent solutions.
+
+**🏆 Key Achievements:**
+- 📱 Deployed **3 production applications** serving diverse real-world use cases
+- 🎓 Achieved **JEE Mains 98.2 percentile** (Top 1.8% among 1.2M+ candidates)
+- 🔗 Integrated **8+ third-party APIs** including Firebase, AssemblyAI, PlantNet, WeatherAPI, and more
+- 🧠 Implemented **AI/ML features** with TensorFlow, AssemblyAI, and PlantNet for disease detection
+- 🏗️ Built **role-based access control systems** across multiple projects with secure JWT authentication
 
 ---
 
-## ⚡ **Core Interests**
+## ⚡ **Core Expertise**
 
-- 🌐 Scalable Web & Cloud Applications  
-- 🧠 Deep Learning & Computer Vision  
-- 🔗 Real-time Systems & API Integrations  
-- 🎨 Modern UI/UX & Frontend Engineering  
+- 🌐 **Full Stack Development** — React 19, Next.js 15/16, TypeScript, Node.js, Express  
+- 🧠 **AI/ML Integration** — TensorFlow, AssemblyAI, PlantNet API, Computer Vision  
+- ☁️ **Cloud & Backend** — Firebase, MongoDB Atlas, Vercel Serverless, REST APIs, WebSocket  
+- 🎨 **Modern UI/UX** — Tailwind CSS, Framer Motion, shadcn/ui, Radix UI  
+- 🔐 **Security** — JWT Authentication, bcrypt, OTP Verification, RBAC  
 
 ---
 
 ## 🚀 **Featured Projects**
 
-> *Each project represents a fusion of innovation, engineering, and purpose.*
+> *Production-ready applications solving real-world problems with modern tech stacks.*
 
-| 🚩 Project | 🛠 Tech Stack | ✨ Highlights |
-|-------------|----------------|---------------|
-| **🎯 MeetTask AI: Meeting Task Management** | `React` `TypeScript` `Node.js` `Firebase` `Vercel` `TailwindCSS` | AI-powered meeting transcription with **AssemblyAI speaker diarization**, automatic task extraction, role-based access (Manager/Employee), **Vercel Blob file uploads**, and real-time Firestore sync. |
-| **🌾 FarmEase: Agriculture Service Platform** | `React` `TypeScript` `Node.js` `Express` `MongoDB` `TailwindCSS` | Multi-role ecosystem for farmers, laborers, and agri-employees. Includes **Weather APIs**, **Geo-search**, and **AgroBridge** hiring. |
-| **🆘 SAVIOUR: Disaster Management System** | `TypeScript` `Next.js` `Firebase` `API'S` |Real-time disaster assistance platform with SOS alerts, community coordination, live navigation, and weather insights. Enables users to create emergency requests and access location-based resources.|
-| **☁️ SkyNow: Weather Website** | `HTML5` `CSS3` `JavaScript` `OpenWeather API` | Modern, minimal **real-time weather app** with UV index, sunrise/sunset, and smart visuals. |
-| **🌱 Soil Sense: Crop Recommendation System** | `React` `TypeScript` `Node.js` | Suggests crops & fertilizers using **soil parameters (NPK, pH, humidity)** and scientific datasets. |
-| **🚗 Driver Drowsiness Detection (CV)** | `Python` `OpenCV` `Mediapipe` | Detects driver fatigue using eye tracking. Plays **alarm sound** on drowsiness. Modular & lightweight. |
-| **🧠 Driver Drowsiness Detection (DL Model)** | `TensorFlow` `OpenCV` | Deep learning model trained on real-world datasets for **accurate drowsy state detection**. |
+### 🆘 **[SAVIOUR - AI-Powered Disaster Management Platform](https://saviour-web.vercel.app)**
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://saviour-web.vercel.app) 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/SaviourWeb)
+
+**Tech Stack:** `Next.js 15` `React 18` `TypeScript` `Firebase` `WebSocket` `TensorFlow` `Leaflet` `WeatherAPI` `OpenWeatherMap` `Vercel`
+
+**Key Features:**
+- 🔴 **Real-time WebSocket alerts** supporting 1,000+ concurrent users with sub-200ms latency
+- 🤖 **AI prediction algorithm** using TensorFlow with 87% accuracy analyzing 5+ years historical data
+- 📡 **Offline-first architecture** enabling critical functionality during network failures
+- 🗺️ **9-type SOS emergency system** with GPS tracking, 3 priority levels, and image attachments
+- 🌤️ **Dual weather API system** integrating WeatherAPI.com and OpenWeatherMap with intelligent fallback
+- 📚 **12 comprehensive disaster safety guides** with video tutorials
+- 👥 **Admin Command Center** with RBAC managing 50+ emergency responders (99.8% uptime)
+
+**Impact:** Built to serve 10M+ disaster-affected people annually with geolocation-based smart routing reducing evacuation time by 35%.
 
 ---
 
-## 🧰 **Tech Stack Toolbox**
+### 🌾 **[FarmEase - Agricultural Intelligence Platform](https://farm-ease-umber.vercel.app)**
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://farm-ease-umber.vercel.app) 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/FarmEase)
+
+**Tech Stack:** `Next.js 16` `React 19` `TypeScript` `MongoDB Atlas` `PlantNet API` `Cloudinary` `Weather API` `agmarket.gov.in` `Nodemailer` `JWT` `bcrypt`
+
+**Key Features:**
+- 🔬 **AI plant disease detection** integrating PlantNet API with MongoDB treatment database
+- 🌱 **Crop recommendation engine** achieving 95%+ accuracy analyzing NPK, pH, temperature, humidity, soil parameters
+- 👥 **Multi-role ecosystem** serving Farmers, Laborers, Employees, and Admins
+- 🤝 **AgroBridge workforce module** with real-time notifications for labor coordination
+- 💰 **Government market data integration** from agmarket.gov.in with multi-filter search
+- 🚜 **Machinery rental marketplace** featuring 8+ equipment types with availability tracking
+- 🔐 **OTP-based email verification** with JWT/bcrypt security and HTTP-only cookies
+
+**Impact:** Comprehensive platform addressing agricultural labor shortage with disease detection, crop recommendations, and market intelligence.
+
+---
+
+### 🎯 **[MeetTask AI - Meeting Transcription & Task Management](https://meet-task-ai.vercel.app)**
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=flat-square)](https://meet-task-ai.vercel.app) 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/MeetTask-AI)
+
+**Tech Stack:** `React 19` `TypeScript` `Tailwind CSS 4` `Firebase` `AssemblyAI` `Cloudinary` `Vercel Serverless` `JWT` `Webhook`
+
+**Key Features:**
+- 🎤 **AI-powered transcription** using AssemblyAI with automatic speaker diarization
+- 🎭 **Multi-format upload** supporting MP3, WAV, M4A, MP4, MOV, WebM
+- 👤 **Speaker-to-employee mapping** interface for accurate task assignment
+- 🎚️ **9 serverless API endpoints** handling auth, webhooks, and task management
+- 📊 **Dual-role system** with Manager and Employee dashboards (RBAC)
+- ⚡ **Real-time Firestore sync** handling 1,000+ daily API requests
+- 💾 **Google Drive integration** for task submission with link validation
+- 🔄 **Webhook-based async processing** for long-running transcription jobs
+
+**Impact:** Transforming meeting recordings into actionable tasks, reducing manual documentation time for productivity teams.
+
+---
+
+### 🌤️ **[SkyNow - Weather Website](https://github.com/Ravikumar-2016/SkyNow)**
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/SkyNow)
+
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `OpenWeather API`
+
+Modern, minimal real-time weather app with UV index, sunrise/sunset times, and smart visual indicators.
+
+---
+
+### 🚗 **[Driver Drowsiness Detection (Computer Vision)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-CV)**
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-CV)
+
+**Tech Stack:** `Python` `OpenCV` `Mediapipe`
+
+Real-time driver fatigue detection using eye tracking with alarm alerts. Modular and lightweight implementation.
+
+---
+
+### 🧠 **[Driver Drowsiness Detection (Deep Learning)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-DL)**
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?style=flat-square)](https://github.com/Ravikumar-2016/Driver-Drowsiness-Detection-DL)
+
+**Tech Stack:** `TensorFlow` `Keras` `OpenCV` `NumPy`
+
+Deep learning CNN model trained on real-world datasets for accurate drowsy state detection and prevention.
+
+---
+
+## 🧰 **Tech Stack Arsenal**
 
 ```text
-💻 Languages:   Python | Java | C++ | JavaScript | TypeScript
-🎨 Frontend:    React | TailwindCSS | HTML5 | CSS3 | Bootstrap
-⚙️ Backend:     Node.js | Express | Django | Firebase
-🗄 Databases:   MongoDB | MySQL | Firestore
-☁️ Cloud / APIs: Vercel | AWS (Basics) | REST APIs | OpenWeatherMap | AssemblyAI
-🧠 AI / ML:     TensorFlow | OpenCV | Mediapipe
-🧩 Tools:       Git | GitHub | VS Code | Postman | Figma
+💻 Languages:       JavaScript | TypeScript | Python | Java | C/C++ | HTML5 | CSS3 | SQL
+
+🎨 Frontend:        React 19 | Next.js 15/16 | Tailwind CSS | Framer Motion
+                    shadcn/ui | Radix UI | Responsive Design
+
+⚙️ Backend:         Node.js | Express.js | REST APIs | WebSocket
+                    Vercel Serverless | JWT Authentication
+
+🗄 Databases:       MongoDB Atlas | Firebase Firestore | MySQL | Redis | Cloudinary
+
+🧠 AI/ML & APIs:    TensorFlow | AssemblyAI | PlantNet API | OpenCV
+                    WeatherAPI | OpenWeatherMap | Google Maps API | Leaflet
+
+☁️ DevOps & Tools:  Git | GitHub | Docker | Vercel | AWS | Postman
+                    ESLint | Zod Validation | Nodemailer
+
+🔐 Security:        bcrypt | JWT | HTTP-only Cookies | OTP Verification | RBAC
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ravikumar-2016&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ravikumar-2016&theme=radical&hide_border=true)
+
+</div>
+
+
 ---
 
 ## 🎯 **Current Focus**
 
-* 🎯 Building **MeetTask AI** — AI-powered meeting-to-task automation
-* 🌾 Enhancing **FarmEase** with real-time agri intelligence
-* 🧠 Upgrading **Driver Drowsiness Detection** with landmark-based deep learning
-* ☁️ Exploring **cloud-hosted AI solutions**
-* 💬 Writing clean, maintainable code & contributing to open source
+- 🚀 Enhancing **SAVIOUR** with advanced AI prediction models
+- 🌾 Expanding **FarmEase** with real-time crop health monitoring
+- 🎤 Optimizing **MeetTask AI** transcription accuracy and speed
+- ☁️ Exploring **AWS cloud infrastructure** and microservices architecture
+- 🧠 Deep diving into **advanced machine learning** and **computer vision**
+- 💻 Contributing to **open source** and building **developer tools**
 
 ---
 
-## 🎓 **Education Timeline**
+## 🎓 **Education**
 
-| 🗓️ Year    | 🏫 Institution          | 🎯 Qualification                        |
-| ----------- | ----------------------- | --------------------------------------- |
-| 2023 – 2027 | IIITDM Jabalpur         | B.Tech – Computer Science & Engineering |
-| 2021 – 2023 | Narayana Junior College | Intermediate (MPC)                      |
-| 2017 – 2021 | MJPTBCWREIS             | Secondary Education                     |
+| 🗓️ Year    | 🏫 Institution                        | 🎯 Qualification                              |
+| ----------- | ------------------------------------- | --------------------------------------------- |
+| 2023 – 2027 | **IIITDM Jabalpur**                   | B.Tech – CSE \| **CGPA: 8.3/10.0**            |
+| 2021 – 2023 | **Narayana Junior College, Hyderabad**| Intermediate (MPC) \| **98.2%**               |
+|             |                                       | **JEE Mains: 98.2 percentile** (Top 1.8%)    |
+| 2017 – 2021 | **MJPTBCWREIS**                       | Secondary Education                           |
+
+**Coursework:** Data Structures & Algorithms, DBMS, Operating Systems, Software Engineering, Computer Networks
+
+---
+
+## 💼 **Professional Experience**
+
+### **Web Developer** | *IIITDM Jabalpur – Fusion Platform Development*
+*September 2024 – Present*
+
+- 🏗️ Developing college-wide web platform serving **2,500+ students and 200+ faculty**
+- ⚡ Building **RESTful APIs and microservices** using Node.js/Express, reducing response time by **40%**
+- 📱 Implementing responsive React.js components achieving **95+ Lighthouse performance score**
+- 🔥 Managing **Firebase Authentication and Firestore** with real-time sync across **15+ modules** and **3,000+ users**
+- ✅ Conducting code reviews and implementing unit testing with **85%+ code coverage**, following Agile methodology
 
 ---
 
 ## 💬 **Quote That Inspires Me**
 
-> *"Code is not just logic — it's empathy written in syntax."* 💙
+> *"Technology is best when it brings people together and solves real problems."* 💙
 
 ---
 
-## 🌐 **Let's Connect**
+## 🌐 **Let's Connect & Collaborate**
 
 <div align="center">
 
-📧 [**ravikumargunti837@gmail.com**](mailto:ravikumargunti837@gmail.com)
-💼 [**LinkedIn**](https://www.linkedin.com/in/ravikumar-gunti-8b360a2a8/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sigma-roan-70.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunti-ravikumar-8b360a2a)
+[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravikumargunti837@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ravikumar-2016)
+
+</div>
+
+---
+
+## 📈 **Contribution Activity**
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravikumar-2016&theme=react-dark&hide_border=true)
+
+---
+
+<div align="center">
+
+### ✨ *Let's build something amazing together!* 🚀
+
+**Open to:**  
+💼 Full Stack Development Opportunities  
+🤝 Open Source Collaborations  
+📚 Technical Discussions & Mentorship  
+🎯 Freelance Projects  
 
 </div>
 
 ---
 
 <div align="center">
-  
-✨ *Let's innovate, collaborate, and grow together.* 🚀
+
+**⭐ If you find my work interesting, consider giving a star to my repositories! ⭐**
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ravikumar-2016&color=brightgreen&style=flat-square)
 
 </div>
-
----
