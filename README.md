@@ -65,16 +65,6 @@ Creating tech that empowers people — clean, impactful, and human-centered.
 🧠 AI / ML:     TensorFlow | OpenCV | Mediapipe
 🧩 Tools:       Git | GitHub | VS Code | Postman | Figma
 ```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Ravikumar-2016&show_icons=true&theme=tokyonight&hide_border=true&v=1" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravikumar-2016&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-</div>
-
 ---
 
 ## 🎯 **Current Focus**
