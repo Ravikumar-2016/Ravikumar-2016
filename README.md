@@ -4,11 +4,10 @@
 
 <img src="https://github.com/Ravikumar-2016.png" width="160" style="border-radius:50%; border:4px solid #00E0FF;" alt="Ravi Kumar Gunti"/>
 
-# 🧑‍💻 **Ravi Kumar Gunti**  
-### *Full Stack Developer | AI/ML Engineer 🚀*
+# 🧑‍💻 **Ravi Kumar Gunti**
+### *Full Stack Developer | AI/ML Enthusiast 🚀*
 
-📍 IIITDM Jabalpur | CSE (2023–2027) | CGPA: 8.3/10.0  
-💡 JEE Mains: 98.2 Percentile | 3 Production Apps | 1,600+ Users  
+📍 IIITDM Jabalpur | B.Tech CSE (2023–2027) | Final Year | CGPA: **8.4/10.0**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-sigma-roan-70.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gunti-ravikumar-8b360a2a)
@@ -21,21 +20,30 @@
 
 ## **About Me**
 
-> *"Building technology that solves real-world problems and creates meaningful impact."*
+> *"Building technology that solves real-world problems through software and AI."*
 
-Hey there! I'm **Ravi Kumar Gunti**, a passionate **Full Stack Developer** and **AI/ML Engineer** pursuing **B.Tech in Computer Science** at **IIITDM Jabalpur** with **8.3 CGPA**.  
+Hi, I'm **Ravi Kumar Gunti**, a **Final Year B.Tech Computer Science student** at **IIITDM Jabalpur** with a **CGPA of 8.4/10.0**.
 
-I specialize in building **scalable, production-ready applications** that address real-world challenges — from **AI-powered disaster management** and **agricultural intelligence platforms** to **meeting automation systems**.
+I enjoy developing **full-stack web applications**, integrating **AI/ML capabilities**, and solving practical problems using modern technologies. My projects span areas such as agriculture, disaster management, computer vision, and productivity tools.
 
-🎯 **What Drives Me:**  
-Creating technology that empowers communities, increases efficiency, and saves lives through intelligent solutions.
+Most of my projects are **deployed on Vercel** for demonstration and portfolio purposes, allowing recruiters and developers to explore them through live deployments.
 
-**🏆 Key Achievements:**
-- 📱 Deployed **3 production applications** serving diverse real-world use cases
-- 🎓 Achieved **JEE Mains 98.2 percentile** (Top 1.8% among 1.2M+ candidates)
-- 🔗 Integrated **8+ third-party APIs** including Firebase, AssemblyAI, PlantNet, WeatherAPI, and more
-- 🧠 Implemented **AI/ML features** with TensorFlow, AssemblyAI, and PlantNet for disease detection
-- 🏗️ Built **role-based access control systems** across multiple projects with secure JWT authentication
+🎯 **Areas of Interest**
+- Full Stack Web Development
+- Artificial Intelligence & Machine Learning
+- Backend Systems & REST APIs
+- Cloud Deployment
+- Software Engineering
+
+## 🏆 **Highlights**
+
+- 🎓 **JEE Mains 98.2 Percentile**
+- 💻 Developed multiple full-stack web applications using React, Next.js, Node.js, Express, and MongoDB
+- 🚀 Deployed several portfolio projects on **Vercel** with live demos
+- 🔗 Integrated third-party APIs including Firebase, AssemblyAI, PlantNet, WeatherAPI, and others
+- 🤖 Built AI-powered features using TensorFlow, Computer Vision, and external AI APIs
+- 🔐 Implemented secure authentication and role-based access control using JWT
+- 📚 Continuously improving Data Structures & Algorithms and core Computer Science fundamentals for software engineering roles
 
 ---
 
