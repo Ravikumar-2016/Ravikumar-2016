@@ -212,7 +212,7 @@ Deep learning CNN model trained on real-world datasets for accurate drowsy state
 
 | 🗓️ Year    | 🏫 Institution                        | 🎯 Qualification                              |
 | ----------- | ------------------------------------- | --------------------------------------------- |
-| 2023 – 2027 | **IIITDM Jabalpur**                   | B.Tech – CSE \| **CGPA: 8.3/10.0**            |
+| 2023 – 2027 | **IIITDM Jabalpur**                   | B.Tech – CSE \| **CGPA: 8.4/10.0**            |
 | 2021 – 2023 | **Narayana Junior College, Hyderabad**| Intermediate (MPC) \| **98.2%**               |
 |             |                                       | **JEE Mains: 98.2 percentile** (Top 1.8%)    |
 | 2017 – 2021 | **MJPTBCWREIS**                       | Secondary Education                           |
